@@ -1,2 +1,3 @@
 # Learn-python-devops
-Learning new python languages
+Learning new python language
+This is to enhance my It Training skills 
